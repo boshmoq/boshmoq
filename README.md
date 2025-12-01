@@ -1,20 +1,20 @@
 <img src = "githubanner.JPG"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
+  <a href="https://www.linkedin.com/in/abubakrgulomov" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/Glorfindell?csrf_token=bcab48565089a48c886f5cdb2c9a4ff5" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <a href="https://t.me/boshmoqdev" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/glorfindell" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" />
+  <a href="https://www.instagram.com/abu.bakr.gulomov" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://es.pinterest.com/Glorffindel/_pins/" target="_blank">
+  <a href="https://pinterest.com/sleepyabubakr/_pins/" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
   </a>
-  <a href="https://www.chess.com/member/glorffindel" target="_blank">
-    <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
+  <a href="https://codepen.io/boshmoq" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
 </p>
 
@@ -27,17 +27,16 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm AbuBakr Gulomov </b></em>, a "Digital Craftsman". I enjoy learning new technologies. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+  Hello There! <em><b> I'm AbuBakr Gulomov </b></em>, a "Digital Craftsman". I build, craft and code things for fun. This GitHub is just where I put the stuff I am learning, building or messing around with.
 </p>
 
 
 <br/>
 
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the National University of Costa Rica (UNA) </b></em> <br/>
-   <img src="/imgs/img4.png" width="15"/>   <em><b> Private tutor in C++ at the University </b></em><br/>
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Competitor in the ICPC (2025) </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Chess Player  </b></em><br/>
+   <img src="/imgs/img3.png" width="15"/>   <em><b> Target International School '26 </b></em> <br/>
+   <img src="/imgs/img4.png" width="15"/>   <em><b> Founder of Shakaroob Studio </b></em><br/>
+   <img src="/imgs/img2.png" width="15"/>   <em><b> Front-End Developer & UI/UX Designer </b></em><br/>
 </p>
 
 <br/>
@@ -69,9 +68,9 @@
 
 <div align = "center"> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjamin-Solano&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)  ![](https://nirzak-streak-stats.vercel.app/?user=Benjamin-Solano&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=boshmoq&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin-Solano&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boshmoq&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
 
