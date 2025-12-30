@@ -67,7 +67,7 @@
 
 </div>
 
-<h2> <em> Visitor Count </em> </h2>
+<h3 align="center"> <em> Visitor Count </em> </h3>
 
 <div align = "center">
 
