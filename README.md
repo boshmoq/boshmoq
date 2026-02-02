@@ -34,7 +34,7 @@
 
 <p align="center">
    <img src="/images/img3.png" width="15"/>   <em><b> Target International School '26 </b></em> <br/>
-   <img src="/images/shakaroob.png" width="15"/>   <em><b> Founder of Shakaroob Studio </b></em><br/>
+   <img src="/images/shakaroob.png" width="15"/>   <em><b> Co-Founder @ Vinex.uz </b></em><br/>
    <img src="/images/img2.png" width="15"/>   <em><b> Front-End Developer & UI/UX Designer </b></em><br/>
 </p>
 
