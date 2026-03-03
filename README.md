@@ -1,4 +1,4 @@
-<img src = "githubanner.jpg"/>
+<img src = "banner.jpg"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abubakrgulomov" target="_blank">
