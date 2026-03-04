@@ -20,10 +20,14 @@
 
 <br>
 
-<h2 align="center"> <img src="/images/title1.png" width="25"/> <em>About  me: </em></h2>
+<!-- <h2 align="center"> <img src="/images/title1.png" width="25"/> <em>About  me: </em></h2> -->
+
+# About Me:
 
 <img src="gif.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
+
+- Abu Bakr Gulomov
 
 <p>
 Hello There! <em><b> I'm AbuBakr Gulomov </b></em>, a "Digital Craftsman". I build, craft and code things for fun. This GitHub is just where I put the stuff I am learning, building or messing around with. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
