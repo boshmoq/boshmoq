@@ -71,7 +71,7 @@ Hello There! <em><b> I'm AbuBakr Gulomov </b></em>, a "Digital Craftsman". I bui
 
 <div align = "center">
 
-![Visitor Count](https://count.getloli.com/get/@nafderlin?theme=3d-num)
+![Visitor Count](https://count.getloli.com/get/@tmonbek?theme=3d-num)
   
 </div>
 
