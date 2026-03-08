@@ -91,7 +91,7 @@ Hello There! <em><b> I'm AbuBakr Gulomov </b></em>, a "Digital Craftsman". I bui
 
 <div align = "center">
 
-![Visitor Count](https://count.getloli.com/get/@nafderlin?theme=3d-num)
+![Visitor Count](https://count.getloli.com/@nafderlin?name=nafderlin&theme=3d-num&padding=16&offset=0&align=center&scale=1.3&pixelated=0&darkmode=1)
   
 </div>
 
