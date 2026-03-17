@@ -86,7 +86,7 @@ Hello There! <em><b> I'm AbuBakr Gulomov </b></em>, a "Digital Craftsman". I bui
 
 ---
 
-![3D Graph](./profile-3d-contrib/profile-gitblock.svg)
+![3D Graph](./profile-3d-contrib/profile-night-green.svg)
 
 </div>
 
