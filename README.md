@@ -82,7 +82,7 @@ Hello There! <em><b> I'm AbuBakr Gulomov </b></em>, a "Digital Craftsman". I bui
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nafderlin&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nafderlin&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 ---
 
