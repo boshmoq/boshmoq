@@ -78,7 +78,7 @@ Hello There! <em><b> I'm AbuBakr Gulomov </b></em>, a "Digital Craftsman". I bui
 
 <div align = "center"> 
 
-![](https://nirzak-streak-stats.vercel.app/?user=nafderlin&theme=dark&background=0D1117&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=1000px)<br/><br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=nafderlin&theme=dark&background=0D1117&hide_border=true&card_width=1000&card_height=200)
 
 ---
 
