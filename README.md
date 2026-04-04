@@ -69,9 +69,13 @@ Hello There! <em><b> I'm AbuBakr Gulomov </b></em>, a "Digital Craftsman". I bui
   <img src="https://img.shields.io/badge/Git-1E242A?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-1E242A?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-1E242A?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-1E242A?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gulp-1E242A?style=for-the-badge&logo=gulp&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-1E242A?style=for-the-badge&logo=gsap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytorch-1E242A?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Obsidian-1E242A?style=for-the-badge&logo=obsidian&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/Figma-1E242A?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gimp-1E242A?style=for-the-badge&logo=gimp&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/Figma-1E242A?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gimp-1E242A?style=for-the-badge&logo=gimp&logoColor=white" />
 </p>
 
 <br/>
