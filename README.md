@@ -36,10 +36,10 @@ Hello There! <em><b> I'm AbuBakr Gulomov </b></em>, a "Digital Craftsman". I bui
 </p> -->
 
 - "Digital Craftsman" who believes great products live at the intersection of clean code and thoughtful design
-- I love building websites and apps where design, functionality and even small details matter.
-- I enjoy making products that are both practical and visually satisfying.
-- Always open to learning, picking up new technologies and growing through the work itself
-- I got a site: www.abubakr.pro
+- i love building websites and apps where design, functionality and even small details matter.
+- i enjoy making products that are both practical and visually satisfying.
+- always open to learning, picking up new technologies and growing through the work itself
+- i got a site: www.abubakr.pro / retro.abubakr.pro
 
 <br/>
 <br/>
@@ -63,11 +63,15 @@ Hello There! <em><b> I'm AbuBakr Gulomov </b></em>, a "Digital Craftsman". I bui
   <img src="https://img.shields.io/badge/HTML5-1E242A?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1E242A?style=for-the-badge&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-1E242A?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-1E242A?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-1E242A?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-1E242A?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-1E242A?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-1E242A?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-1E242A?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-1E242A?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-1E242A?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Obsidian-1E242A?style=for-the-badge&logo=obsidian&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Figma-1E242A?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gimp-1E242A?style=for-the-badge&logo=gimp&logoColor=white" /> -->
 </p>
 
 <br/>
