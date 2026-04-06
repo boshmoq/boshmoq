@@ -39,7 +39,7 @@ Hello There! <em><b> I'm AbuBakr Gulomov </b></em>, a "Digital Craftsman". I bui
 - i love building websites and apps where design, functionality and even small details matter.
 - i enjoy making products that are both practical and visually satisfying.
 - always open to learning, picking up new technologies and growing through the work itself
-- i got a site: www.abubakr.pro / retro.abubakr.pro
+- i got a site: www.nafderlin.uz
 
 <br/>
 <br/>
